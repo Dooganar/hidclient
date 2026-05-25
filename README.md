@@ -1,3 +1,7 @@
+# Dooganar's Fork
+
+I have forked this as a way to remind myself to fix this code myself for a modern linux OS. I would really like my laptop (Framework 13 - Intel 13th Gen Core i5) to be able to act as a bluetooth keyboard and mouse - and I'm pretty sure Claude Code will be able to update this 'hidclient' to work on modern systems. I plan on making a NixOS package for this client.
+
 # hidclient
 
 Virtual Bluetooth® keyboard and mouse
